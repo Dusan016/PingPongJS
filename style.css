@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 1;
+    position: relative;
+    
+}
+
+#pong{
+    border: 1px solid black;
+}
